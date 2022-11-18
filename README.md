@@ -1,2 +1,2 @@
 # git-basics
-Learning new things.
+Learning some new things.
